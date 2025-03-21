@@ -278,13 +278,13 @@ a, a:hover, a:focus {
   padding: 6px;
 }
 .bianca .slick-dots .slick-active {
-  border: 1.5px solid #fff;
+  border: 1.5px solid #192456;
 }
 .bianca .slick-dots li button {
   padding: 0;
   width: 6px;
   height: 6px;
-  background-color: #fff;
+  background-color: #192456;
   border-radius: 100%;
   margin: 0 auto;
 }
