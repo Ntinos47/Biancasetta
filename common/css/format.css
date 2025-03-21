@@ -17,7 +17,7 @@ html, body, div, span, object, iframe, pre, a, abbr, acronym, address, code, del
   --col-width: calc(min(90vw, var(--maxgridrow)) / 12);
   --maxgridrow: 1920px;
   --lightcolor: #F4F8FC;
-  --darkcolor: #5D5652;
+  --darkcolor: #192456;
   --vi: calc(min(90vw, 1950px) - 30px);
   --gapp: calc((100vw - var(--vi)) / 2);
 }
